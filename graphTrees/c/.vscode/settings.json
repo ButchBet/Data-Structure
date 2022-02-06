@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "bdfs.h": "c",
+        "stdio.h": "c",
+        "corecrt_stdio_config.h": "c",
+        "tadgrafo.h": "c",
+        "stdlib.h": "c"
+    }
+}

@@ -1,0 +1,9 @@
+A123 1 Ar35588 10098679 12:30 21/6/2021 Bogotá/Colombia Madrid/Spain
+A456 1 Ar36589 11028679 10:25 10/7/2021 Pereira/Colombia California/EEUU
+B123 1 Br21528 93097673 8:30 11/9/2021 Rio/Brazil Bogota/Colombia
+B456 0 Br12323 78098699 7:45 1/6/2021 Moscou/Rusia Camilo/PereiraCityLand
+C123 1 Cr62288 18062868 4:15 2/6/2021 Bogota/Colombia Taipei/Taiwan
+D123 0 Dr12345 12345678 12:14 11/1/2021 London/UK Caqueta/Colombia
+D123 1 Dr56789 12345678 7:50 21/11/2021 Toronto/Canada Bogota/Colombia
+D123 0 Dr12385 12345678 12:50 21/11/2021 Toronto/Canada Bogota/Colombia
+E123 1 Er12345 12345678 5:23 21/11/2021 Bogota/Colombia Moscu/Rusia

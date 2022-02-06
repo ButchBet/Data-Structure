@@ -1,0 +1,32 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "C:\\msys64\\mingw64\\include\\c++\\10.2.0\\",
+                "C:\\msys64\\mingw64\\include\\c++\\10.2.0\\backward\\",
+                "C:\\msys64\\mingw64\\include\\c++\\10.2.0\\bits\\",
+                "C:\\msys64\\mingw64\\include\\c++\\10.2.0\\debug\\",
+                "C:\\msys64\\mingw64\\include\\c++\\10.2.0\\decimal\\",
+                "C:\\msys64\\mingw64\\include\\c++\\10.2.0\\experimental\\",
+                "C:\\msys64\\mingw64\\include\\c++\\10.2.0\\ext\\",
+                "C:\\msys64\\mingw64\\include\\c++\\10.2.0\\parallel\\",
+                "C:\\msys64\\mingw64\\include\\c++\\10.2.0\\pstl\\",
+                "C:\\msys64\\mingw64\\include\\c++\\10.2.0\\tr1\\",
+                "C:\\msys64\\mingw64\\include\\c++\\10.2.0\\tr2\\",
+                "C:\\msys64\\mingw64\\include\\c++\\10.2.0\\x86_64-w64-mingw32\\",
+                "C:/Users/Mi Equipo/AppData/Local/Packages/KaliLinux.54290C8133FEE_ey8k8hqnwqnmg/LocalState/rootfs/usr/include",
+                "C:/Users/Mi Equipo/AppData/Local/Packages/KaliLinux.54290C8133FEE_ey8k8hqnwqnmg/LocalState/rootfs/usr/include/linux"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "cStandard": "c17",
+            "cppStandard": "c++20",
+            "intelliSenseMode": "windows-gcc-x64"
+        }
+    ],
+    "version": 4
+}
